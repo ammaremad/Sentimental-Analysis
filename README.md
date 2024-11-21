@@ -43,7 +43,7 @@ The trained model and tokenizer are saved for future use, allowing for easy depl
 To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/ammaremad/Sentimental-Analysis)>
    cd sentiment-analysis-bert
    ```
 2. Install the required libraries:
